@@ -1,0 +1,5 @@
+### Write the format of your spectra here (ascii / fits) ### (do not delete this line)
+ascii
+### Write your stars here: star_identifier / stellar spectra ### (do not delete this line)
+gj15A   gj15A.asc
+gj205   gj205.asc
